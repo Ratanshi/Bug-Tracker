@@ -2,7 +2,7 @@
 
 ### Project for SEPM by Team Broski
 
-## Technology Stack and Dependencies
+## Technology Stack and Dependencies:
 
 - **Front-end**
 
